@@ -1,0 +1,4 @@
+DEFAULT_MODEL=ollama/mistral:7b-instruct
+OPENAI_API_KEY=not-needed
+USE_LITELLM=true
+OPENAI_USE_FUNCTIONS=false
